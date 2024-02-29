@@ -1,0 +1,38 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/rosuser/turtlebot3_ws/install/turtlebot3_fake_node/include/**",
+        "/home/rosuser/turtlebot3_ws/install/turtlebot3_msgs/include/**",
+        "/home/rosuser/turtlebot3_ws/install/turtlebot3_gazebo/include/**",
+        "/home/rosuser/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/include/**",
+        "/home/rosuser/turtlebot3_ws/install/dynamixel_sdk/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/rosuser/dd2419_ws/install/rplidar_ros/include/**",
+        "/home/rosuser/dd2419_ws/install/robp_phidgets_temperature/include/**",
+        "/home/rosuser/dd2419_ws/install/robp_phidgets_spatial/include/**",
+        "/home/rosuser/dd2419_ws/install/robp_phidgets_motors/include/**",
+        "/home/rosuser/dd2419_ws/install/robp_phidgets_encoders/include/**",
+        "/home/rosuser/dd2419_ws/install/robp_interfaces/include/**",
+        "/home/rosuser/dd2419_ws/install/robp_boot_camp_interfaces/include/**",
+        "/home/rosuser/dd2419_ws/install/custom_interfaces2/include/**",
+        "/home/rosuser/turtlebot3_ws/src/DynamixelSDK/dynamixel_sdk/include/**",
+        "/home/rosuser/turtlebot3_ws/src/DynamixelSDK/dynamixel_sdk_examples/include/**",
+        "/home/rosuser/turtlebot3_ws/src/turtlebot3/turtlebot3_node/include/**",
+        "/home/rosuser/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_fake_node/include/**",
+        "/home/rosuser/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
